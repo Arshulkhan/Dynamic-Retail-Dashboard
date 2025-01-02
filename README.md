@@ -98,6 +98,8 @@ This table provides information about sales representatives and their regional c
 3. Create a Pie or Donut Chart for visual representation.
 4. Include labels for percentage values.
 
+![image](https://github.com/user-attachments/assets/678a5d26-e22d-4f4f-b41c-59d3af7f648d)
+
 #### 5. Sales by Country
 **Objective:** Analyze sales performance by country.
 
@@ -107,6 +109,8 @@ This table provides information about sales representatives and their regional c
 3. Apply Conditional Formatting or Heatmaps to highlight top-performing countries.
 4. Optionally, use a Geographic Map Chart for a global view.
 
+![image](https://github.com/user-attachments/assets/932ec5ec-37e9-489c-85fa-68bdb1606bc8)
+
 #### 6. Top 5 Subcategories
 **Objective:** Identify top-performing subcategories.
 
@@ -114,6 +118,8 @@ This table provides information about sales representatives and their regional c
 1. Build a Pivot Table with `Sub-Category` as rows and `Sales` as values.
 2. Sort by descending `Sales` and filter to show Top 5 Subcategories.
 3. Design a Column Chart for visualization.
+
+![image](https://github.com/user-attachments/assets/4b5add97-1a61-4c6c-995d-99b4f090d2f3)
 
 #### 7. Bottom 5 Subcategories
 **Objective:** Highlight underperforming subcategories.
@@ -123,6 +129,8 @@ This table provides information about sales representatives and their regional c
 2. Filter to display Bottom 5 Subcategories.
 3. Develop a Column Chart with contrasting colors for emphasis.
 
+![image](https://github.com/user-attachments/assets/acc85d0f-7925-47c2-b595-0514a522385c)
+
 #### 8. Yearly Sales Trends
 **Objective:** Track yearly sales trends.
 
@@ -131,6 +139,8 @@ This table provides information about sales representatives and their regional c
 2. Add `Sales` as a value.
 3. Create a Line Chart to illustrate trends.
 4. Enable Slicers for filtering by category, region, or segment.
+
+![image](https://github.com/user-attachments/assets/a7179daf-2329-409f-b455-82dc6814e141)
 
 ---
 
