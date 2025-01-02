@@ -74,6 +74,7 @@ This table provides information about sales representatives and their regional c
 2. Add `Sales` and `Profit` as values.
 3. Design a Line Chart for trend visualization.
 4. Integrate Slicers for dynamic filtering by category, market, or region.
+![image](https://github.com/user-attachments/assets/c612e384-8a04-46d3-8d26-55c6c435dae6)
 
 #### 3. Category-Wise Profit
 **Objective:** Evaluate profit across product categories.
