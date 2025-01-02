@@ -87,6 +87,8 @@ This table provides information about sales representatives and their regional c
 3. Develop a Bar Chart to display category-wise profit.
 4. Add Slicers for year and region-based filtering.
 
+![image](https://github.com/user-attachments/assets/85a4dc5e-8fdb-4e45-b856-f23392002dc0)
+
 #### 4. Segment-Wise Sales Share (%)
 **Objective:** Visualize sales share by customer segment.
 
