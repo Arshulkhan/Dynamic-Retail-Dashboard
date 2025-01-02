@@ -171,4 +171,5 @@ The Dynamic Retail Dashboard empowers businesses to:
 **Visual Representations:**
 The accompanying GitHub repository contains visuals for all problem solutions, including screenshots of the complete dashboard in action.
 
-![image](https://github.com/user-attachments/assets/fc3cde5f-3583-4392-b5a8-447bdefcf7d7)
+![image](https://github.com/user-attachments/assets/8f283769-8721-4737-b3ad-f850a3ba2087)
+
